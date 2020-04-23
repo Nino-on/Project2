@@ -1,0 +1,162 @@
+form.signup,
+form.login {
+  margin-top: 50px;
+}
+
+.jumbotron {
+  background-color:rgb(219, 243, 226);
+  color: rgb(14, 88, 7);
+  height: 230px;
+  font-family: 'Cinzel', serif; 
+  padding: 0px!important;
+}
+
+body {
+  background-color:rgb(250, 245, 245);
+  font-family: 'Asap Condensed', sans-serif;}
+
+
+#chartIcon {
+  color: rgb(207, 196, 174) ;
+  border-color: orange !important;
+}
+
+.display-4{
+  font-size: 40px;
+}
+
+.logo { 
+  text-align: left;
+}
+
+.addSellStocks{
+  text-align: center ;
+}
+
+#logo{
+  color: azure;
+}
+.container1{
+  background: rgba(255,255,255,0.7);
+  width: 100%;
+  padding: 40px;
+  padding-top: 80px;
+  padding-left: 15%;
+ 
+}
+
+#money {
+  background-image: url('../assets/Money.jpg');
+  background-repeat: no-repeat;
+  display: block;
+  background-size: 100%;
+  opacity: 1;
+  width: 100%;
+  margin-bottom: 50px;
+}
+ 
+#computer {
+  background-image: url('https://www.quoteinspector.com/media/investing/line-chart-candlesticks-wo.jpg');
+  background-repeat: no-repeat;
+  display: inline-block;
+  background-size: 100%;
+  opacity: 50;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+element.style {
+background-image: url('https://g.foolcdn.com/editorial/images/478537/digital-solutions.jpg');
+}
+
+.clean-block.clean-hero {
+  min-height: 680px;
+}
+
+.clean-block.clean-hero {
+  position: relative;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
+
+.clean-block {
+  padding-bottom: 100px;
+}
+
+.clean-block{
+  padding-bottom: 50px;
+}
+
+section {
+  justify-content: center;
+  display: block;
+}
+
+.clean-block.clean-hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: currentColor;
+  z-index: 1;
+}
+
+.clean-block.clean-info {
+  padding-left: 0;
+  padding-right: 0;
+  text-align: inherit;
+}
+
+.clean-block.dark {
+  background-color: #f6f6f6;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-item {
+  font-size: 35px;
+  font-family: 'Asap Condensed', sans-serif;
+}
+
+.navbar-brand.logo {
+  font-size: 30px;
+  font-family: 'Asap Condensed', sans-serif;
+
+}
+
+
+#landing{
+  background-image: url('../assets/digital-solutions.jpg');
+  opacity: 100;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+    
+  }
+  .container2{
+    background: rgba(38, 99, 54, 0.4);
+    width: 100%;
+    height: 100%;
+    padding: 300px;
+    padding-top: 220px;
+    padding-left: 15%;
+  }
+
+  #holder{
+    background-color: rgb(237, 238, 237);
+    width: 40%;
+    height: 100%;
+    offset-position: 900;
+  }
+   
+  
+
